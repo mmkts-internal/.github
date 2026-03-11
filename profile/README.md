@@ -1,4 +1,4 @@
-![METRO Markets Logo](./images/metro-markets.png)
+![METRO Markets Logo](./images/metro-markets.jpg)
 
 ## You are not member of this GitHub organization
 
